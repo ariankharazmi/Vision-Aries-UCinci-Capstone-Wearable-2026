@@ -1,27 +1,18 @@
 ## What is Vision Aries?
-Compute: Radxa Zero 2 Pro
 
-Display: Sony ECX336C OLED micro-display
+Vision Aries is a wearable computing headset built for the UC IT Expo 2026.
 
-OS: Debian/Raspberry Pi OS
-
-UI & Main Processing Stack: Custom UI & Processing Stacks built w/ Python
-
-Purpose: UCinci Senior Design Capstone 2026 & UC IT Expo 2026
-
-Strengths: Handsfree navigation, new medium for information delivery, and automation of tasks
-
-## Summary
 Vision Aries serves as tool for improving workplace and occupational outcomes. Automate a task via voice, capture your POV, or get mobile notifications without taking out your phone or PC, and much more.
 
-## Phase 1 Hardware
+## Hardware
 * Radxa Zero 2 Pro (Raspberry Pi 5 4GB for demo-ready version)
 * Sony ECX336C OLED Micro-display
 * Rotary Knob, TouchPad, & Microphone Controls for navigation & volume
 * ArduCam 16MP Camera & Microphone
-* 10000 mAh battery
+* 4 Hour Battery Runtime
 
-## Phase 2 Software
+## Software
+* Python Launcher on Linux
 * WiFi & Bluetooth capabilities
 * Voice Control
 * Photo & Video Capture
